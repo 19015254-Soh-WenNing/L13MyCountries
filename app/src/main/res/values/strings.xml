@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyCountries</string>
+    <string name="country">Name:</string>
+    <string name="desc">Description:</string>
+    <string name="area">Area in KM2:</string>
+    <string name="year">Year Visited:</string>
+    <string name="city">Favourite City:</string>
+    <string name="stars">Rating:</string>
+    <string name="hint_country">Enter name of country here</string>
+    <string name="hint_desc">Enter brief description of country here</string>
+    <string name="hint_area">Enter area of country here</string>
+    <string name="hint_year">Enter year visited for the country here</string>
+    <string name="hint_city">Enter favourite city here</string>
+
+    <string name="title_activity_main">Insert Country</string>
+    <string name="title_activity_second">Show Countries</string>
+    <string name="title_activity_third">Edit Countries</string>
+
+    <string name="id">Island ID</string>
+    <string name="btnInsert">Insert</string>
+    <string name="btnShowList">Show List</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="btn5Stars">Show Only Countries with 5 Stars</string>
+</resources>
