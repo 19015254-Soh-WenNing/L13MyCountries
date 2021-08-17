@@ -12,7 +12,7 @@
     <string name="hint_year">Enter year visited for the country here</string>
     <string name="hint_city">Enter favourite city here</string>
 
-    <string name="title_activity_main">Insert Country</string>
+    <string name="title_activity_first">Insert Country</string>
     <string name="title_activity_second">Show Countries</string>
     <string name="title_activity_third">Edit Countries</string>
 
